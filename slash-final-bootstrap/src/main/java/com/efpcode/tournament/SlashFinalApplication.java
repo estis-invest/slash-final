@@ -1,12 +1,12 @@
-package com.efpcode.slash_final_bootstrap;
+package com.efpcode.tournament;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SlashFinalBootstrapApplication {
+public class SlashFinalApplication {
 
     public static void main(String[] args){
-        SpringApplication.run(SlashFinalBootstrapApplication.class, args);
+        SpringApplication.run(SlashFinalApplication.class, args);
     }
 }
