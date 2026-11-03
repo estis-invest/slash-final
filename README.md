@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/estis-invest/slash-final/actions/workflows/maven.yml/badge.svg?branch=main&event=push)](https://github.com/estis-invest/slash-final/actions/workflows/maven.yml)
+
 # /FINAL
 ##### Pronounced: *Slash Final*
 
